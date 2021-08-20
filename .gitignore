@@ -1,0 +1,10 @@
+.idea/
+*.iml
+target/
+build/
+/serenity.properties
+serenity.properties
+*ity.properties
+\.xcconfig
+.DS_Store
+.DS_Store?
